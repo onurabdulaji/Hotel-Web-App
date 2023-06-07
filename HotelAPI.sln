@@ -8,6 +8,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{949FBD46-C934-4EBA-B5E9-BD83FBE488F0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ToDoList", "ToDoList", "{F90B6644-052A-469F-B327-79A840614583}"
+	ProjectSection(SolutionItems) = preProject
+		Adimlar.txt = Adimlar.txt
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelProject.WebApi", "ApiConsume\HotelProject.WebApi\HotelProject.WebApi.csproj", "{A18690E1-EDD9-4EEA-82A7-A7AD2163532D}"
 EndProject
