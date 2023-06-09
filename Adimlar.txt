@@ -1,3 +1,6 @@
 
 
-1. Api Testi ve Swagger
+--Api Testi ve Swagger - Done
+
+Temayi Ekle
+Register - Login
